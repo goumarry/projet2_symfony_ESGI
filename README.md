@@ -60,6 +60,6 @@ L'application suit une logique de **"Separate Charges and Transfers"** pour gara
 
 ### 2. Installation
 ```bash
-git clone <url-du-repo>
+git clone git@github.com:goumarry/projet2_symfony_ESGI.git
 cd micro_paiement
 composer install
